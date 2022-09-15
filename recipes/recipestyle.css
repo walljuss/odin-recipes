@@ -1,0 +1,30 @@
+img {
+  width: 200px;
+}
+
+li {
+  text-align: left;
+}
+
+p {
+  font-family: 'Times New Roman', serif;
+}
+
+.main {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(20, 104, 9);
+}
+
+h2 {
+  color: rgb(28, 186, 83);
+}
+
+.center {
+  margin: 0 auto;
+  width: auto;
+}
+
